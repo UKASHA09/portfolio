@@ -55,9 +55,9 @@
 
 .cv-btn a {
   font-size: 14px;
-  color: rgb(236, 241, 250);
+  color: rgb(0, 0, 0);
   background-color: transparent;
-  border: 1px solid rgb(236, 241, 250);
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 4px;
   padding: 12px 25px;
   display: inline-block;
